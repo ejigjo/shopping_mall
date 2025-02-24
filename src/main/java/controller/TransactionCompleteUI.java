@@ -53,7 +53,10 @@ public class TransactionCompleteUI extends JFrame {
 		add(infoPanel, BorderLayout.NORTH);
 		// 確認按鈕
 		JButton closeButton = new JButton("確認");
-		closeButton.addActionListener(e -> dispose());
+		closeButton.addActionListener(e ->{
+			dispose();
+			new MainViewUI().setVisible(true);
+			});
 		JPanel buttonPanel = new JPanel();
 		buttonPanel.add(closeButton);
 		getContentPane().add(buttonPanel, BorderLayout.SOUTH);
