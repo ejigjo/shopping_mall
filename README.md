@@ -12,7 +12,6 @@ https://github.com/ejigjo/library_system/blob/main/images/title.png
 - 🔹 購物車功能
 - 🔹 支付假功能
   
-![Image](https://github.com/user-attachments/assets/c5822c21-b9ea-4d5c-819a-f0b38cba3702)
 
 ## ERD  
 ![Image](https://github.com/user-attachments/assets/15c8f204-8c4c-4a44-b145-cce7de3f000e)
@@ -26,59 +25,5 @@ https://github.com/ejigjo/library_system/blob/main/images/title.png
 CVV:1234
 
 ## 專案結構  
-shopping_mall
-│── src/main/java
-│   ├── controller
-│   │   ├── LoginUI.java
-│   │   ├── MainViewUI.java
-│   │   ├── PaymentUI.java
-│   │   ├── RegisterUI.java
-│   │   ├── TransactionCompleteUI.java
-│   │   ├── TransactionHistoryUI.java
-│   │
-│   ├── dao
-│   │   ├── CartDao.java
-│   │   ├── OrderItemsDao.java
-│   │   ├── OrdersDao.java
-│   │   ├── ProductDao.java
-│   │   ├── UserDao.java
-│   │
-│   ├── dao.impl
-│   │   ├── CartDaoImpl.java
-│   │   ├── OrderDaoImpl.java
-│   │   ├── OrderItemsDaoImpl.java
-│   │   ├── ProductDaoImpl.java
-│   │   ├── UserDaoImpl.java
-│   │
-│   ├── model
-│   │   ├── Cart.java
-│   │   ├── CartView.java
-│   │   ├── OderView.java  (可能是 OrderView？)
-│   │   ├── Order.java
-│   │   ├── OrderItem.java
-│   │   ├── Product.java
-│   │   ├── TempCart.java
-│   │   ├── TransactionCompleteView.java
-│   │   ├── User.java
-│   │
-│   ├── service
-│   │   ├── CartService.java
-│   │   ├── OrderItemsService.java
-│   │   ├── OrdersService.java
-│   │   ├── ProductService.java
-│   │   ├── UserService.java
-│   │
-│   ├── service.impl
-│   │   ├── CartServiceImpl.java
-│   │   ├── OrderItemsServiceImpl.java
-│   │   ├── OrderServiceImpl.java
-│   │   ├── ProductServiceImpl.java
-│   │   ├── UserServiceImpl.java
-│   │
-│   ├── until  (應該是 utils？)
-│   │   ├── LoginUntil.java
-│   │   ├── MakeSerialNumber.java
-│   │   ├── RegisterUntil.java
-│   │   ├── SessionManager.java
-│   │   ├── SqlUntil.java
+
 
