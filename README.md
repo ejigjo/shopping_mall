@@ -3,7 +3,7 @@ https://github.com/ejigjo/library_system/blob/main/images/title.png
 ## 專案名稱:
 圖書管理系統  
 
-![Image](https://github.com/user-attachments/assets/a2e21557-08cd-45f0-b0e3-9c8ceb9551ac)
+
 ## 功能介紹:
 
 - 🔹 使用者登入 / 註冊
@@ -18,7 +18,7 @@ https://github.com/ejigjo/library_system/blob/main/images/title.png
 ## 登入UML用例圖  
 ![Image](https://github.com/user-attachments/assets/11298808-12f5-4ad2-905a-7982ee8f33aa)
 ## 購物UML用例圖  
-![Image](https://github.com/user-attachments/assets/a7738902-a51e-4ea1-bcb7-bea0796b756d)
+![Image](https://github.com/user-attachments/assets/a7738902-a51e-4ea1-bcb7-bea0796b756d)  
 ##信用卡資訊
 卡號:4111 1111 1111 1111
 卡片到期日:12/29
