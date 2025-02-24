@@ -1,5 +1,4 @@
 # 線上購物商城
-https://github.com/ejigjo/library_system/blob/main/images/title.png
 ## 專案名稱:  
 ### 線上購物系統
 ![Image](https://github.com/user-attachments/assets/0935fb9b-6510-4c52-af67-4896b444cae3)
